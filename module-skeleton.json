@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-zoopla-flutter",
+  "capabilityKey": "liberusoftware/real-estate-zoopla",
+  "presentation": "mobile-flutter",
+  "package": "module_real_estate_zoopla_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-zoopla.md",
+  "presentationPlan": "projects/real-estate/flutter/real-estate-zoopla.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
